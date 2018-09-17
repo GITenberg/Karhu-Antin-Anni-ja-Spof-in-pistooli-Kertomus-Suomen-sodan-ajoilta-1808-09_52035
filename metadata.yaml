@@ -1,5 +1,5 @@
 _repo: Karhu-Antin-Anni-ja-Spof-in-pistooli-Kertomus-Suomen-sodan-ajoilta-1808-09_52035
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Niemi, Herman
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1922
     gutenberg_agent_id: '32137'
     url: http://www.gutenberg.org/2009/agents/32137
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Åberg, J. O. (Johan Olof)
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35481
     wikipedia: http://fi.wikipedia.org/wiki/Johan_Olof_%C3%85berg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52035#Karhu-Antin-Anni-ja-Spof-in-pistooli-Kertomus-Suomen-sodan-ajoilta-1808-09
 gutenberg_issued: '2016-05-10'
 gutenberg_type: Text
 identifiers:
